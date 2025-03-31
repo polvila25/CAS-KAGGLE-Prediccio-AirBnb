@@ -11,4 +11,7 @@ Aquest fitxer de dades inclou tota la informació necessària per saber més sob
 
 El nostre cas kaggle, es tracta d'un problema de regressió, el target serà predir el preu per nit del AirBnb.
 
-Per realitzar el nostre projecte hem seguit els seguents passos. Primer de tot, un anàlisis exploratori de les dades, tractant les dades i realitzamt diferents gràfics. Així, vam poder aplicar diferents models i extreure conclusions. 
+Per realitzar el nostre projecte hem seguit els seguents passos. Primer de tot, un anàlisis exploratori de les dades, tractant les dades i realitzamt diferents gràfics. Així, vam poder aplicar diferents models i extreure conclusions.
+
+Al fitxer caskaggle.pdf es troba la presentació del projecte, on es mostren de manera gràfica i entendible els resultats obtinguts i les seves conclusions.
+
