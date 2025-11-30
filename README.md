@@ -1,8 +1,8 @@
 # CAS-KAGGLE-APC
 Cas KAGGLE APC 
 
-Enric Ferrera González 1672969
-Pol Vila Simón 1674294
+Enric Ferrera González<br>
+Pol Vila Simón<br>
 
 En aquest cas Kaggle vam tractar els dataset de Airbnb de Nova York. 
  https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
